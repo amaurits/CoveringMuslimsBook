@@ -3,13 +3,14 @@ date: "2021-12-24"
 draft: false
 excerpt: To mark the U.S. publication of the book, we published a thread on Twitter offering a summary overview of the contents and key findings of the book, along with some figures. We reproduce the thread here (edited for reading as a continuous document).
 subtitle: "Highlights and lessons"
-title: A brief overview (as posted on Twitter)
+title: A brief overview
 weight: 1
 ---
 
 Our book, [_Covering Muslims: American Newspapers in Comparative Perspective_](https://global.oup.com/academic/product/covering-muslims-9780197611722?cc=us&lang=en&), is now out in the United States with Oxford University Press and available at independent booksellers, as well as [Amazon](amzn.to/3yvt3By).
 
-We hope _Covering Muslims_ will engage scholars, students, activists, journalists & anyone interested in newspaper portrayals of Muslims, media analysis, or big data. The book has several key findings. But most importantly, there is one that cannot be overstated: 👉 COVERAGE OF MUSLIMS IS REMARKABLY NEGATIVE BY ANY MEASURE 👈
+We hope _Covering Muslims_ will engage scholars, students, activists, journalists & anyone interested in newspaper portrayals of Muslims, media analysis, or big data. The book has several key findings. But most importantly, there is one that cannot be overstated: <br>
+👉 COVERAGE OF MUSLIMS IS REMARKABLY NEGATIVE BY ANY MEASURE 👈
 
 We provide the first systematic, large-scale analysis of American newspaper coverage of Muslims, using big data techniques and readings of individual articles. 
 

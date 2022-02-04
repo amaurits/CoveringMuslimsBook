@@ -5,11 +5,11 @@ action_type: text
 description: <i>Covering Muslims</i> presents the first systematic, large-scale analysis of American newspaper coverage of Muslims. By comparing it over time with reporting on other groups and issues as well as coverage of the subject in other countries, we demonstrate conclusively how negative American newspapers have been in their treatment of Muslims across the two-decade period between 1996 and 2016, both in an absolute sense and compared to a range of other groups. The same pattern holds in other countries, such as Australia, Canada, and the UK. While 9/11 did not make coverage more negative in the long run, it did dramatically increase the prevalence of references to terrorism and extremism.
 image_left: true
 images:
-- img/CoveringMuslims_cover.jpg
+- img/CoveringMuslims_cover_large.png
 show_action_link: true
 show_social_links: true
 subtitle: American newspapers in comparative perspective
-text_align_left: false
+text_align_left: true
 title: Covering Muslims
 type: home
 ---

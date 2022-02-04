@@ -1,0 +1,193 @@
+baseURL = "https://covering-muslims.netlify.app/"
+theme = "hugo-apero"
+languageCode = "en"
+title = "Covering Muslims"
+author = "Maurits van der Veen"
+copyright = "" # set to override the auto generated copyright using org info and now year
+googleAnalytics = ""
+disqusShortname = "" # see params.utterances to use utterances instead of Disqus
+metaDataFormat = "yaml"
+footnoteReturnLinkContents = "&#8617;" # ↩
+# set deliberately low for testing choose your preffered number based on the blog layout you've chosen
+paginate = 5
+preserveTaxonomyNames = true
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+enableEmoji = true
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark.renderer]
+    unsafe = true  # Enable user to embed HTML snippets in Markdown content.
+    hardwraps = false 
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 2
+    ordered = false
+  [markup.highlight]
+    # one of: https://xyproto.github.io/splash/docs/ 
+    style = "github"
+    
+[params]
+  orgName = "Maurits van der Veen"
+  orgLocal = ""
+  description = "A website for Covering Muslims (Bleich & van der Veen 2022)"
+  favicon = "/img/stairlogo_icon.ico"
+  logo = "/img/stairlogo.png"
+  mainSections = ["News", "Related publications", "More information"]
+  navallcaps = false
+  # show/hide social icons in site header & footer
+  # configure social icons and links below in [[params.social]]
+  socialInHeader = false
+  socialInFooter = true
+  # Default image for social sharing and search engines. 
+  # Place image file in `static` folder and specify image name here.
+  sharing_image = "/img/stairlogo.png"
+  # Twitter username (without @). Used when a visitor shares your site on Twitter.
+  twitter = "amauritsvdv"
+  
+  # use a built-in color theme
+  # one of: forest / grayscale / peach / plum /
+  #         poppy / sky / violet / water 
+  theme = "grayscale"
+  
+  # or, leave theme empty & make your own palette
+  # see docs at https://hugo-apero.netlify.app/blog/color-themes/
+  # the custom scss file must be in the assets/ folder
+  # add the filename name here, without extension
+  # to use hex colors instead of named tachyons colors, include "hex" in filename
+  custom_theme = "" 
+  
+  # use an embedded font-family
+  # serif options: Fraunces / EB Garamond / Bitter
+  # sans-serif options: Commissioner / Atkinson Hyperlegible / Metropolis
+  # if you import your own fonts, name them here too
+  customtextFontFamily = "Commissioner"
+  customheadingFontFamily = "Fraunces"
+  # alternatively, leave empty and select basic font options: sans-serif or serif
+  # for more http://tachyons.io/docs/typography/font-family/
+  textFontFamily = "athelas"
+  headingFontFamily = "athelas"
+
+  # Configuration of https://utteranc.es/ for comments
+  [params.utterances]
+    use_utterances = true
+    repo_name = "amaurits/CoveringMuslimsBook"
+    issue_term = "pathname" # url, pathname, or title
+    theme = "boxy-light"
+    label = "comments :crystal_ball:"
+
+  # Configuration of math rendering
+  [params.math]
+    renderer = "katex" # one of "mathjax" / "katex" 
+
+  # Social icons may appear on homepage and in site header or footer
+  # Configure show/hide above - add as many as you like below
+  # Icon pack "fab" includes brand icons, see: https://fontawesome.com/icons?d=gallery&s=brands&m=free
+  # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
+  # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
+  [[params.social]]
+      icon      = "etsy" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.middlebury.edu/academics/ps/faculty/node/25021"
+  [[params.social]]
+      icon      = "twitter" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://twitter.com/ErikBleich1"
+  [[params.social]]
+      icon      = "orcid" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "http://orcid.org/0000-0002-0887-7013"
+  [[params.social]]
+      icon      = "google-scholar" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://scholar.google.com/citations?user=eA2vq7IAAAAJ&hl=en&oi=ao"
+  [[params.social]]
+      icon      = "medium-m" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.maurits.net/"
+  [[params.social]]
+      icon      = "github" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://github.com/amaurits"
+  [[params.social]]
+      icon      = "twitter" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://twitter.com/amauritsvdv"
+  [[params.social]]
+      icon      = "orcid" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "http://orcid.org/0000-0002-7970-8102"
+  [[params.social]]
+      icon      = "google-scholar" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "https://scholar.google.com/citations?user=JaL-gZgAAAAJ"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+["News", "Related publications", "More information"]
+
+[menu]
+  # Configure header 
+  [[menu.header]]
+    name = "Home"
+    title = "Front page of website"
+    url = "/"
+    weight = 1
+  [[menu.header]]
+    name = "More information"
+    title = "Information about the book"
+    url = "/Information/"
+    weight = 2
+  [[menu.header]]
+    name = "Related publications"
+    title = "Related publications"
+    url = "/related/"
+    weight = 3
+  [[menu.header]]
+    name = "News"
+    title = "News"
+    url = "/news/"
+    weight = 4
+
+  # Configure footer  
+  [[menu.footer]]
+    name = "License"
+    title = "License"
+    url = "/license/"
+    weight = 1
+  [[menu.footer]]
+    name = "Contact"
+    title = "Contact form"
+    url = "/contact/"
+    weight = 2
+  [[menu.footer]]
+    name = "Contributors"
+    title = "Contributors"
+    url = "/contributors/"
+    weight = 3
+
+# see https://gohugo.io/about/hugo-and-gdpr/    
+[privacy]
+  [privacy.disqus]
+    disable = false
+  [privacy.googleAnalytics]
+    disable = false
+    anonymizeIP = true
+    respectDoNotTrack = true
+  [privacy.instagram]
+    disable = false
+    simple = true
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false
+  [privacy.vimeo]
+    disable = false
+    enableDNT = true
+    simple = true
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true

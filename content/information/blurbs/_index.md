@@ -14,4 +14,6 @@ title: What others have said
 weight: 2
 ---
 
-We are very grateful for these kind words from academic experts on Muslims, Minorities, and the Media.
+We are grateful for the kind words from academic experts on Muslims, Minorities, and the Media.
+
+Click here or in the navigation bar to the left to read the endorsements published on the book's back cover from [Amaney A. Jamal](./jamal/), [Stuart Soroka](./soroka/), and [Hajo G. Boomgaarden](./boomgaarden/)

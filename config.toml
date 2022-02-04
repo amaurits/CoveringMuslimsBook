@@ -102,6 +102,10 @@ enableEmoji = true
       icon_pack = "ai"
       url       = "https://scholar.google.com/citations?user=eA2vq7IAAAAJ&hl=en&oi=ao"
   [[params.social]]
+      icon      = "window-minimize" # icon name without the 'fa-'
+      icon_pack = "far"
+      url       = ""
+  [[params.social]]
       icon      = "medium-m" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://www.maurits.net/"

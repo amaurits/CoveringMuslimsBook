@@ -127,8 +127,6 @@ enableEmoji = true
   series = "series"
   tag = "tags"
 
-["News", "Related publications", "More information"]
-
 [menu]
   # Configure header 
   [[menu.header]]
@@ -139,7 +137,7 @@ enableEmoji = true
   [[menu.header]]
     name = "More information"
     title = "Information about the book"
-    url = "/Information/"
+    url = "/information/"
     weight = 2
   [[menu.header]]
     name = "Related publications"

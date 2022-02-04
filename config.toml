@@ -32,7 +32,7 @@ enableEmoji = true
   orgLocal = ""
   description = "A website for Covering Muslims (Bleich & van der Veen 2022)"
   favicon = "/img/coveringmuslims_cover_icon.ico"
-  logo = "/img/stairlogo.png"
+  logo = "/img/CoveringMuslims_cover.jpg"
   mainSections = ["News", "Related publications", "More information"]
   navallcaps = false
   # show/hide social icons in site header & footer
@@ -61,8 +61,8 @@ enableEmoji = true
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Atkinson Hyperlegible / Metropolis
   # if you import your own fonts, name them here too
-  customtextFontFamily = "Commissioner"
-  customheadingFontFamily = "Fraunces"
+  # customtextFontFamily = "Commissioner"
+  # customheadingFontFamily = "Fraunces"
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
   textFontFamily = "athelas"

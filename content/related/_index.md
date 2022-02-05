@@ -10,7 +10,7 @@ cascade:
     text_link_url: /related/
 description: Other publications related to or building on the material in the book.
 layout: list-grid
-show_author_byline: true
+show_author_byline: false
 show_button_links: false
 show_post_date: false
 show_post_thumbnail: true

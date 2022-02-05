@@ -9,7 +9,7 @@
         {{ with .Params.description }}<p class="f4 mt4 lh-copy">{{ . | markdownify }}</p>{{ end }}
 
         {{ if .Params.links }}
-           <div class="ph0 pt5">
+           <div class="ph0 pt2">
            {{ partial "shared/btn-links.html" . }}
            </div>
         {{ end }}

@@ -9,11 +9,11 @@ images:
 links:
 - icon: book
   icon_pack: fas
-  name: "  Oxford UP  "
+  name: "  Oxford UP  ."
   url: https://global.oup.com/academic/product/covering-muslims-9780197611722?cc=nl&lang=en&
 - icon: amazon
   icon_pack: fab
-  name: "  Amazon (US)  "
+  name: "  Amazon (US)  ."
   url: https://www.amazon.com/Covering-Muslims-Newspapers-Comparative-Perspective/dp/0197611729/
 show_action_link: true
 show_social_links: true

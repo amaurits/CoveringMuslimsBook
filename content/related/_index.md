@@ -20,7 +20,7 @@ sidebar:
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""
-  title: Project sidebar (not used)
+  title: Further reading
 title: Want to delve deeper?
 ---
 

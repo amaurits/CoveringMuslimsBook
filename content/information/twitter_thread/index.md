@@ -42,11 +42,11 @@ Similarly, stories touching on Muslim Americans are more likely to be negative t
 
 We use a new lexical sentiment analysis tool, [MultiLexScaled](https://github.com/amaurits/MultiLexScaled), to measure not only whether an article is positive or negative, but also just how positive or negative it is benchmarked against a random sample of over 48,000 US newspaper articles.
 
-This allows us to show that articles mentioning Muslims are far more negative than those touching on other groups. (The x-axis is standard deviations.)
+This allows us to show that articles mentioning Muslims are far more negative than those touching on other religious groups. (The x-axis is standard deviations.)
 
 ![figure 3.5 from the book](fig3.5.jpg)
 
-Coverage of most other groups is far less negative. Muslims are a striking outlier. 
+Similarly, coverage of most other US-based groups is far less negative. US Muslims are a striking outlier. 
 
 ![figure 3.9 from the book](fig3.9.jpg)
 

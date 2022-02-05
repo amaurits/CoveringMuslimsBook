@@ -1,5 +1,5 @@
 ---
-author: Erik Bleich, Mira Chugh, Adrienne Goldstein, Yiyi Jin, Julien Souffrant, Emily Stabler, Maurits van der Veen, and Varsha Vijayakumar.
+author: Erik Bleich, Mira Chugh, Adrienne Goldstein, Yiyi Jin, Julien Souffrant, Emily Stabler, Maurits van der Veen, Varsha Vijayakumar
 categories:
 - sentiment analysis
 - Muslims

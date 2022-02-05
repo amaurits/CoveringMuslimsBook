@@ -8,7 +8,7 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: View all projects
     text_link_url: /related/
-description: Other publications related to or building on the material in _Covering Muslims_.
+description: Other publications related to or building on the material in <i>Covering Muslims<i>.
 layout: list-grid
 show_author_byline: true
 show_button_links: false
@@ -16,7 +16,7 @@ show_post_date: false
 show_post_thumbnail: true
 sidebar:
   author: A. Maurits van der Veen
-  description: Other publications related to or building on the material in _Covering Muslims_.
+  description: Other publications related to or building on the material in <i>Covering Muslims<i>.
   show_sidebar_adunit: false
   text_link_label: ""
   text_link_url: ""

@@ -15,7 +15,7 @@ links:
   name: download report
   url: https://www.mediaandminorities.org/reports/
 subtitle: Newspaper Coverage of African Americans, Asian Americans, Latinos, Jews, and Muslims.
-title: 2018 Report on Media Portrayals: 
+title: 2018 Report on Media Portrayals
 ---
 
 In this Report, we examine 2018 coverage of five significant American racial, ethnic, or religious groups: African Americans, Asian Americans, Latinos, Jews, and Muslims. Latinos and African Americans are the largest of these groups, constituting approximately 16% and 13% of the US population, respectively. Asian Americans are the next most numerous, at roughly 5%. Jews and Muslims make up much smaller proportions of the American population, at approximately 2% and 1%, respectively.

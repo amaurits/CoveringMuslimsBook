@@ -8,7 +8,7 @@ date: "2019-07-01"
 draft: false
 excerpt: In this first annual report, we examine 2018 coverage of five significant American racial, ethnic, or religious groups - African Americans, Asian Americans, Latinos, Jews, and Muslims.
 featured: false
-layout: single-sidebar
+layout: single
 links:
 - icon: door-open
   icon_pack: fas

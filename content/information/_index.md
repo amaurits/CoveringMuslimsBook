@@ -5,7 +5,7 @@ cascade:
   sidebar:
     author: A. Maurits van der Veen
     description: "These links lead to pages with additional information about the book: some key findings, what other people have said about it, etc."
-    show_author_byline: true
+    show_author_byline: false
     show_post_date: true
     show_sidebar_adunit: false
     text_contents_label: On this page

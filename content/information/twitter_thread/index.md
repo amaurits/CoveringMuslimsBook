@@ -34,7 +34,7 @@ Is coverage of Muslims really more negative than it is of other groups?
 
 YES. By a long shot. One way to see this is by comparing the % negative and positive stories mentioning Muslims, Hindus, Jews, and Catholics.
 
-![figure 3.4 from the book](fig 3.4.jpg)
+![figure 3.4 from the book](fig3.4.jpg)
 
 Similarly, stories touching on Muslim Americans are more likely to be negative than those mentioning different US-based racial, ethnic, and (non-)religious minorities.
 

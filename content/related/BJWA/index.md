@@ -8,7 +8,7 @@ date: "2022-01-30"
 draft: false
 excerpt: In this article, we focus on broad patterns and trends in the coverage of Muslims to better understand the effect of 9/11. We show that key changes in the content of coverage were both nearly instantaneous and persistent.
 featured: false
-layout: single-sidebar
+layout: single
 links:
 - icon: door-open
   icon_pack: fas

@@ -8,7 +8,7 @@ date: "2020-07-01"
 draft: false
 excerpt: In this second annual report, we examine 2019 coverage of six significant American racial, ethnic, or religious groups - African Americans, Asian Americans, Native Americans, Latinos, Jews, and Muslims.
 featured: false
-layout: single-sidebar
+layout: single
 links:
 - icon: door-open
   icon_pack: fas

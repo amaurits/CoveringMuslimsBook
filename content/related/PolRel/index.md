@@ -8,7 +8,7 @@ date: "2021-12-16"
 draft: false
 excerpt: "Does the tone of media coverage directly affect public attitudes? We use an online between-subjects experiment to show that exposure to articles of quantifiably different valences about Muslims or Catholics affects reported attitudes toward each of those groups."
 featured: false
-layout: single-sidebar
+layout: single
 links:
 - icon: door-open
   icon_pack: fas

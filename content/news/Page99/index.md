@@ -4,7 +4,7 @@ categories:
 - book contents
 date: "2021-12-22"
 draft: false
-excerpt: "Open the book to page ninety-nine and read, and the quality of the whole will be revealed to you." --Ford Madox Ford"
+excerpt: "'Open the book to page ninety-nine and read, and the quality of the whole will be revealed to you.' --Ford Madox Ford"
 layout: single
 subtitle: What can we learn from opening our book to a random page? 
 title: The page 99 test

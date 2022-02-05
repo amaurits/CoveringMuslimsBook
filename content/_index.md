@@ -6,6 +6,11 @@ description: <i>Covering Muslims</i> presents the first systematic, large-scale 
 image_left: true
 images:
 - img/CoveringMuslims_cover_large.png
+links:
+- icon: github
+  icon_pack: fab
+  name: code & paper
+  url: https://github.com/amaurits/MultiLexScaled
 show_action_link: true
 show_social_links: true
 subtitle: American newspapers in comparative perspective

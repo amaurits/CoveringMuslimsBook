@@ -3,7 +3,7 @@ date: "2021-12-24"
 draft: false
 excerpt: "To mark the U.S. publication of the book, we published a thread on Twitter offering a summary overview of the contents and key findings of the book, along with some figures. We reproduce the thread here (edited for reading as a continuous document).\n\n
 
-_<sub>Illustration: Jost Amman - Buckdrucker (1568)</sub>_"
+_<sub>Illustration: Agostino Ramelli - book wheel (1588)</sub>_"
 subtitle: "Highlights and lessons"
 title: A brief overview
 weight: 1

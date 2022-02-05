@@ -3,7 +3,7 @@ date: "2021-12-24"
 draft: false
 excerpt: "Information about the availability of the book\n\n
 
-_<sub>Illustration: Agostino Ramelli - book wheel (1588)</sub>_"
+_<sub>Illustration: Jost Amman - Buckdrucker (1568)</sub>_"
 subtitle: Publication dates and availability
 title: When and where can the book be purchased?
 weight: 3

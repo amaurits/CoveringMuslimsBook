@@ -6,7 +6,6 @@ categories:
 date: "2019-01-01"
 draft: false
 excerpt: Brief blurb
-layout: single
 subtitle: ""
 title: The MPoMP lab at Middlebury College
 weight: 2

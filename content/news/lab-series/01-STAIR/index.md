@@ -6,7 +6,6 @@ categories:
 date: "2020-01-01"
 draft: false
 excerpt: Brief blurb
-layout: single
 subtitle: ""
 title: The STAIR lab at William & Mary
 weight: 1

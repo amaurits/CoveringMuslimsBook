@@ -8,8 +8,7 @@ cascade:
     show_sidebar_adunit: false
     text_link_label: View all projects
     text_link_url: /related/
-description: "Other publications related to or building on the material in \n\n
-*Covering Muslims*."
+description: Other publications related to or building on the material in the book.
 layout: list-grid
 show_author_byline: true
 show_button_links: false

@@ -7,10 +7,14 @@ image_left: true
 images:
 - img/CoveringMuslims_cover_large.png
 links:
-- icon: github
+- icon: book
+  icon_pack: fas
+  name: Oxford UP
+  url: https://global.oup.com/academic/product/covering-muslims-9780197611722?cc=nl&lang=en&
+- icon: amazon
   icon_pack: fab
-  name: code & paper
-  url: https://github.com/amaurits/MultiLexScaled
+  name: Amazon
+  url: https://www.amazon.com/Covering-Muslims-Newspapers-Comparative-Perspective/dp/0197611729/
 show_action_link: true
 show_social_links: true
 subtitle: American newspapers in comparative perspective

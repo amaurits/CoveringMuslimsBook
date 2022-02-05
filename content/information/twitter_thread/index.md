@@ -38,17 +38,17 @@ YES. By a long shot. One way to see this is by comparing the % negative and posi
 
 Similarly, stories touching on Muslim Americans are more likely to be negative than those mentioning different US-based racial, ethnic, and (non-)religious minorities.
 
-![figure 3.8 from the book](fig 3.8.jpg)
+![figure 3.8 from the book](fig3.8.jpg)
 
 We use a new lexical sentiment analysis tool, [MultiLexScaled](https://github.com/amaurits/MultiLexScaled), to measure not only whether an article is positive or negative, but also just how positive or negative it is benchmarked against a random sample of over 48,000 US newspaper articles.
 
 This allows us to show that articles mentioning Muslims are far more negative than those touching on other groups. (The x-axis is standard deviations.)
 
-![figure 3.5 from the book](fig 3.5.jpg)
+![figure 3.5 from the book](fig3.5.jpg)
 
 Coverage of most other groups is far less negative. Muslims are a striking outlier. 
 
-![figure 3.9 from the book](fig 3.9.jpg)
+![figure 3.9 from the book](fig3.9.jpg)
 
 In short, YES, coverage of Muslims is undeniably and strongly more negative than that of other groups. 
 In fact, the average article about Muslims is more negative than 84% of our random sample of US newspaper articles. No other group comes close.
@@ -59,15 +59,15 @@ We also looked at change over time. How big a deal was 9/11 for the newspaper co
 
 Surprisingly, not much in terms of overall negativity, as we see if we chart valence from 2000-2003.
 
-![excerpt from figure 4.2 from the book, colorized](fig 4.2a.jpg)
+![excerpt from figure 4.2 from the book, colorized](fig4.2a.jpg)
 
 However, 9/11 did mark an enormous jump in the prevalence of references to terrorism and extremism.
 
-![figure 4.3 from the book, colorized](fig 4.3b.jpg)
+![figure 4.3 from the book, colorized](fig4.3b.jpg)
 
 This is clear, too, if we look at the words most commonly appearing right next to “Muslim” or “Islam” in newspaper articles since 9/11, shown in this word cloud (terrorism and extremism words are highlighted in black).
 
-![figure 4.4 from the book](fig 4.4.jpg)
+![figure 4.4 from the book](fig4.4.jpg)
 
 #### Comparisons across countries
 
@@ -77,7 +77,7 @@ If Muslim articles in the United States are so negative, is that unusual? We che
 
 The answer is NO. Coverage of Muslims in these four countries is very similar. And similarly negative compared to our representative sample of articles. 
 
-![figure 5.3 from the book](fig 5.3.png)
+![figure 5.3 from the book](fig5.3.png)
 
 Words like “radical,” “fundamentalist,” “militant,” and “extremist” are among the 10 most common words associated with Muslims or Islam in all four countries.
 
@@ -95,7 +95,7 @@ Also, not all topics of coverage are extremely negative. News articles about cul
 
 Somewhat surprisingly, news articles focused on religious topics are also much less negative than the average article in our dataset.
 
-![figure 6.5 from the book, colorized](fig 6.5a.jpg)
+![figure 6.5 from the book, colorized](fig6.5a.jpg)
 
 #### Islamophobia & tone-checking the news
 

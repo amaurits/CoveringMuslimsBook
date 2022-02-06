@@ -7,9 +7,9 @@ title: A. Maurits van der Veen
 weight: 2
 ---
 
-<img style="float: right;" src="featured-headshot.jpg">
+[<img style="float: right;" src="featured-headshot.jpg">
 
-Maurits is Associate Professor of [Government](https://www.wm.edu/as/government/) at [William & Mary](https://www.wm.edu/) in Williamsburg, VA. Prior to coming to William & Mary in 2010, he taught at the [University of Georgia](https://spia.uga.edu/departments-centers/department-of-international-affairs/) and the [University of Pennsylvania](https://www.polisci.upenn.edu/).
+[Maurits](https://www.maurits.net/) is Associate Professor of [Government](https://www.wm.edu/as/government/) at [William & Mary](https://www.wm.edu/) in Williamsburg, VA. Prior to coming to William & Mary in 2010, he taught at the [University of Georgia](https://spia.uga.edu/departments-centers/department-of-international-affairs/) and the [University of Pennsylvania](https://www.polisci.upenn.edu/).
 
 His research investigates the origins and impact of perceptions and beliefs in international relations, with a focus on beliefs about “others”: members of different minorities, (im)migrants, foreigners, etc. As a computational social scientist, he is particularly interested in measuring different aspects of beliefs and attitudes in texts, ranging from legislative debates to newspapers to social media.
 

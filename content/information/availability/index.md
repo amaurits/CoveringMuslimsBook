@@ -9,7 +9,7 @@ title: When and where can the book be purchased?
 weight: 3
 ---
 
-[_Covering Muslims: American Newspapers in Comparative Perspective_](https://global.oup.com/academic/product/covering-muslims-9780197611722?cc=us&lang=en&), has been available as an electronic book since some time in November 2021.
+[_Covering Muslims: American Newspapers in Comparative Perspective_](https://global.oup.com/academic/product/covering-muslims-9780197611722?cc=us&lang=en&), has been available as an electronic book November 2021.
 
 Paper shortages and supply chain issues aggravated by the COVID-19 pandemic have pushed the print publication dates back a bit. In the United States, the book has been available since December 14, 2021, in both hardcover and paperback.
 

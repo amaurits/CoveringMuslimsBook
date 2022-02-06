@@ -7,7 +7,7 @@ title: A. Maurits van der Veen
 weight: 2
 ---
 
-[<img style="float: right;" src="featured-headshot.jpg">
+<img style="float: right;" src="featured-headshot.jpg">
 
 [Maurits](https://www.maurits.net/) is Associate Professor of [Government](https://www.wm.edu/as/government/) at [William & Mary](https://www.wm.edu/) in Williamsburg, VA. Prior to coming to William & Mary in 2010, he taught at the [University of Georgia](https://spia.uga.edu/departments-centers/department-of-international-affairs/) and the [University of Pennsylvania](https://www.polisci.upenn.edu/).
 

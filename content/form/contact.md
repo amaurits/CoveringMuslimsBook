@@ -1,16 +1,14 @@
 ---
 date: "2019-02-25T13:38:41-06:00"
-description: This template has a **contact-us** form built right in. All you need
-  to do is add a valid recipient form-id to the front matter of this form page and
-  you're ready to receive submissions.
+description: Use this form to contact us with any questions you may have after looking through the site. You can also connect with either or both of us directly through Twitter by using the icons below.
 draft: false
-formspree_form_id: id-from-formspree
+formspree_form_id: mnqwpoyk
 layout: split-right
 name: Contact Us Form
 show_poweredby_formspree: true
 show_social_links: true
 submit_button_label: Send Message
-title: Contact
+title: Contact Us
 type: form
 url: contact
 ---

@@ -2,7 +2,7 @@
 date: "2021-12-20"
 draft: false
 excerpt: Not sure where this text is used.
-subtitle: "Associate Professor of Government at William & Mary.\n\n."
+subtitle: "Associate Professor of Government at William & Mary\n\n."
 title: A. Maurits van der Veen
 weight: 2
 ---

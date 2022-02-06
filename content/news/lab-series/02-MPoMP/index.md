@@ -5,9 +5,9 @@ categories:
 - Middlebury
 date: "2019-01-01"
 draft: false
-excerpt: Brief blurb
+excerpt: The Media Portrayals of Minorities Project at Middlebury College uses digital sources to better understand depictions of minorities in the media. Our goal is to track and explain how and why media representations of groups shift over time, vary across place, or compare to one another.
 subtitle: ""
-title: The MPoMP lab at Middlebury College
+title: MPoMP lab at Middlebury College
 weight: 2
 ---
 

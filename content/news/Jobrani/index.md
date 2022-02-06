@@ -6,7 +6,7 @@ categories:
 - recording
 date: "2022-01-10"
 draft: false
-excerpt: Our book opens with a joke from the very funny comedian Maz Jobrani, about the negativity of Muslim media coverage. Jobrani and Tehran interviewed us for their podcast, Back to School with Maz Jobrani.
+excerpt: Our book opens with a joke by the very funny comedian Maz Jobrani, about the negativity of Muslim media coverage. Jobrani and and his co-host Tehran interviewed us for their podcast, Back to School with Maz Jobrani.
 layout: single
 subtitle: A podcast about the book and related issues
 title: Back to School with Maz Jobrani
@@ -19,7 +19,7 @@ We were thrilled to talk about the book with Jobrani and his cohost [Tehran](htt
 Click below to listen to the podcast 
 
 <center>
-<a href=https://podcasts.apple.com/us/podcast/western-media-and-its-negative-depiction-of/id1459194552?i=1000547541116><img src=featured.png></a>
+<a href=https://podcasts.apple.com/us/podcast/western-media-and-its-negative-depiction-of/id1459194552?i=1000547541116><img src=featured.jpg></a>
 </center>"
 
 There is also a video recording, available [here](https://www.youtube.com/watch?v=-xXV9Su3ZR4).

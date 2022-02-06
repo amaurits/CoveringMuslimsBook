@@ -16,4 +16,10 @@ In his Axis of Evil Comedy tour, [Maz Jobrani](https://www.mazjobrani.com/) tell
 
 We were thrilled to talk about the book with Jobrani and his cohost [Tehran](https://www.iamtehran.com/) for an episode of the podcast ["Back to School with Maz Jobrani"](https://podcasts.apple.com/us/podcast/back-to-school-with-maz-jobrani/id1459194552). We discussed key findings in the book, as well as about broader issues related to the book findings, plus whether or not the Netherlands is part of Scandinavia :smiley:. 
 
-You can listen to the podcast [here](https://podcasts.apple.com/us/podcast/western-media-and-its-negative-depiction-of/id1459194552?i=1000547541116), or watch the video recording [here](https://www.youtube.com/watch?v=-xXV9Su3ZR4).
+Click below to listen to the podcast 
+
+<center>
+<a href=https://podcasts.apple.com/us/podcast/western-media-and-its-negative-depiction-of/id1459194552?i=1000547541116><img src=featured.png></a>
+</center>"
+
+There is also a video recording, available [here](https://www.youtube.com/watch?v=-xXV9Su3ZR4).

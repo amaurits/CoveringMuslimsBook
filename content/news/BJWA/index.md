@@ -11,4 +11,4 @@ subtitle: A short article building on the book's findings
 title: 9/11 and media coverage of Muslims
 ---
 
-More information on the [related publications]() page [here](/related/bjwa/).
+More information on the [related publications](/related/) page [here](/related/bjwa/).

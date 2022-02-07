@@ -14,11 +14,11 @@ links:
   icon_pack: fas
   name: download report
   url: https://www.mediaandminorities.org/reports/
-subtitle: Newspaper Coverage of African Americans, Asian Americans, Native Americans, Latinos, Jews, and Muslims.
+subtitle: Newspaper Coverage of African Americans, Asian Americans, Native Americans, Latinos, Jews, and Muslims
 title: 2020 Report on Media Portrayals
 ---
 
-In this Report, we analyze 2020 coverage of six significant American racial, ethnic, or religious groups: African Americans, Asian Americans, Native Americans, Latinos, Jews, and Muslims.* Latinos and African Americans are the largest of these groups, constituting approximately 19% and 13% of the US population, respectively. Asian Americans are the next most numerous, at roughly 6%. Native Americans, Jews, and Muslims each make up approximately 1-2% of the American population.
+In this Report, we analyze 2020 coverage of six significant American racial, ethnic, or religious groups: African Americans, Asian Americans, Native Americans, Latinos, Jews, and Muslims. Latinos and African Americans are the largest of these groups, constituting approximately 19% and 13% of the US population, respectively. Asian Americans are the next most numerous, at roughly 6%. Native Americans, Jews, and Muslims each make up approximately 1-2% of the American population.
 
 We address key questions about media coverage of these groups: Are some mentioned more frequently in US newspapers than others? How positive or negative is coverage of these groups, and why? How does 2020 compare to earlier years in terms of the amount and tone of coverage? What themes are present in the reporting of all six groups, and which were distinctive to each in 2020?
 

@@ -13,7 +13,7 @@ weight: 3
 
 Paper shortages and supply chain issues aggravated by the COVID-19 pandemic have pushed the print publication dates back a bit. In the United States, the book has been available since December 14, 2021, in both hardcover and paperback.
 
-In most of Europe, it will be available in March 2022. According to [Amazon UK](https://www.amazon.co.uk/Covering-Muslims-Newspapers-Comparative-Perspective/dp/0197611729/ref=sr_1_3), the date is 8 March. However, due to the aforementioned paper shortages, that date is not guaranteed.
+In most of Europe, it has been available since 24 March 2022, for instance at [Amazon UK](https://www.amazon.co.uk/Covering-Muslims-Newspapers-Comparative-Perspective/dp/0197611729/ref=sr_1_3).
 
 
 

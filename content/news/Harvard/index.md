@@ -17,7 +17,7 @@ The [Seminar on Social Exclusion and Inclusion](https://ces.fas.harvard.edu/stud
 
 <center>
 <a href=https://ces.fas.harvard.edu/events/2022/04/new-research-on-muslims-in-europe><img src="featured Harvard.jpg"></a>
-</center>"
+</center>
 
 The discussion will feature 3 recent books. In addition to our _Covering Muslims_, [Elisabeth Becker-Topkara](https://www.soz.uni-heidelberg.de/elisabeth-becker-topkara-eng/) will discuss her book, [_Mosques in the Metropolis_](https://press.uchicago.edu/ucp/books/book/chicago/M/bo88749596.html), and [Julian Talpin](http://cosmos.sns.it/person/julien-talpin/) and [Guillaume Roux](https://www.pacte-grenoble.fr/en/user/3733) will present their [_L’épreuve de la discrimination. Enquête dans les quartiers populaires_](https://www.puf.com/content/L%C3%A9preuve_de_la_discrimination) (co-authored with several other scholars).
 

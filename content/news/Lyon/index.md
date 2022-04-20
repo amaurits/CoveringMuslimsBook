@@ -22,5 +22,5 @@ On April 14, Erik provided an overview of the key findings in _Covering Muslims_
 Click on the image below to watch the recording. Erik's presentation begins at 11:30.
 
 <center>
-<a href=https://vimeo.com/699436627><img src="snapshot Lyon.jpg"></a>
+<a href=https://vimeo.com/699436627><img src="snapshot Lyon.png"></a>
 </center>

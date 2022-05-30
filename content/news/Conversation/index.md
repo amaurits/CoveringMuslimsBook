@@ -24,3 +24,13 @@ To read the piece, click on the image below.
 <center>
 <a href=https://theconversation.com/yes-muslims-are-portrayed-negatively-in-american-media-2-political-scientists-reviewed-over-250-000-articles-to-find-conclusive-evidence-183327><img src=conversation.png></a>
 </center>
+
+<br>
+
+A summary of the piece was republished at [Middle East Monitor](https://www.middleeastmonitor.com/) -- Click the image below to read it.
+
+<br>
+<br>
+
+<a href=https://www.middleeastmonitor.com/20220529-muslims-overwhelmingly-shown-negatively-in-western-media-us-political-scientists-find/><img src=MEmonitor.png></a>
+</center>

@@ -7,7 +7,7 @@ draft: false
 excerpt: "We published a short piece focusing on two important take-away messages from the book: 1) Coverage of Muslims is much more negative than that of other religious groups, and 2) This pattern holds across English-speaking countries in the Global North (i.e. it is not U.S.-specific)." 
 layout: single
 subtitle: A short piece underscoring the negativity of media coverage of Muslims and the cross-national nature of this pattern
-title: For 'The Conversation': "Yes, Muslims are portrayed negatively in American media""
+title: For 'The Conversation': "Yes, Muslims are portrayed negatively in American media"
 ---
 
 [The Conversation](https://theconversation.com/global/) is a website featuring news articles about academic research findings.

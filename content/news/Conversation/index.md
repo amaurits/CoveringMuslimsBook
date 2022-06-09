@@ -27,10 +27,10 @@ To read the piece, click on the image below.
 
 <br>
 
-A summary of the piece was republished at [Middle East Monitor](https://www.middleeastmonitor.com/) -- Click the image below to read it.
+The piece was republished by the [Times of Israel](https://www.timesofisrael.com/) -- Click the image below to read it there.
 
 <br>
-<br>
 
-<a href=https://www.middleeastmonitor.com/20220529-muslims-overwhelmingly-shown-negatively-in-western-media-us-political-scientists-find/><img src=MEmonitor.png></a>
+<center>
+<a href=https://www.timesofisrael.com/study-shows-muslims-face-overwhelmingly-negative-portrayal-in-us-media/><img src=TimesofIsrael.png></a>
 </center>

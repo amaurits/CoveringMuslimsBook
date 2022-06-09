@@ -18,19 +18,42 @@ We worked with the excellent Kalpana Jin (@kalpanajain) as editor to produce a s
 To read the piece, click on the image below.
 <br>
 <br>
-<br>
-<br>
 
 <center>
 <a href=https://theconversation.com/yes-muslims-are-portrayed-negatively-in-american-media-2-political-scientists-reviewed-over-250-000-articles-to-find-conclusive-evidence-183327><img src=conversation.png></a>
 </center>
 
 <br>
+<br>
+<br>
 
-The piece was republished by the [Times of Israel](https://www.timesofisrael.com/) -- Click the image below to read it there.
+The piece was taken up and republished by a range of outlets in different countries. Below are a few examples:
 
+
+## [Times of Israel](https://www.timesofisrael.com/)
 <br>
 
 <center>
 <a href=https://www.timesofisrael.com/study-shows-muslims-face-overwhelmingly-negative-portrayal-in-us-media/><img src=TimesofIsrael.png></a>
+</center>
+
+<br>
+<br>
+
+
+## [Al-Ahram Online (Egypt)](https://english.ahram.org.eg/)
+<br>
+
+<center>
+<a href=https://english.ahram.org.eg/News/466946.aspx><img src=AhramOnline.png></a>
+</center>
+
+<br>
+<br>
+
+## [Lacrosse (WI) Tribune](https://lacrossetribune.com/)
+<br>
+
+<center>
+<a href=https://lacrossetribune.com/news/science/yes-muslims-are-portrayed-negatively-in-american-media----2-political-scientists-reviewed/article_38a80eea-5eb4-55d1-a1e3-0a22de5e963e.html><img src=LacrosseTribune.png></a>
 </center>

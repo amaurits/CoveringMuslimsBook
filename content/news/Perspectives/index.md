@@ -23,5 +23,5 @@ To read the Dialogue, click on the journal image below.
 <br>
 
 <center>
-<a href=https://www.cambridge.org/core/journals/perspectives-on-politics/article/covering-muslims-american-newspapers-in-comparative-perspective-by-erik-bleich-and-a-maurits-van-der-veen-oxford-uk-oxford-university-press-2022-224p-9900-cloth-2995-paper/8FD36AAD6FBD8C7C1ED705C2580FDED9/><img src=Perspective_featured.jpg></a>
+<a href=https://www.cambridge.org/core/journals/perspectives-on-politics/article/covering-muslims-american-newspapers-in-comparative-perspective-by-erik-bleich-and-a-maurits-van-der-veen-oxford-uk-oxford-university-press-2022-224p-9900-cloth-2995-paper/8FD36AAD6FBD8C7C1ED705C2580FDED9/><img src=Perspectives_featured.jpg></a>
 </center>

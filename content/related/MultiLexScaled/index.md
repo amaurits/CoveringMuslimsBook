@@ -9,9 +9,17 @@ draft: false
 excerpt: A central feature of the book is our analysis of the degree of positivity or negativity of a newspaper articles. To perform this analysis, we developed a new sentiment analysis method, which outperforms other lexicon-based approaches on standard benchmarks and is more robust across a range of different domains.
 layout: single
 links:
+- icon: door-open
+  icon_pack: fas
+  name: journal website
+  url: https://journals.plos.org/plosone/
+- icon: newspaper
+  icon_pack: far
+  name: download article
+  url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0313092&?utm_id=plos111&utm_source=internal&utm_medium=email&utm_campaign=author
 - icon: github
   icon_pack: fab
-  name: code & paper
+  name: code
   url: https://github.com/amaurits/MultiLexScaled
 subtitle: A python module for sentiment analysis
 tags:

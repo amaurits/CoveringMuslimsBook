@@ -27,13 +27,13 @@ unlimited quantities of texts with full replicability and high accuracy. Compare
 approaches, lexicon-based methods provide generalizability while sacrificing little in performance 
 and gaining the ability to identify gradations in sentiment as well as cross-domain comparability. 
 
-In conjunction with the book, we introduced a method, MultiLexScaled, which averages valences across 
+In conjunction with the book, we introduced a method, [MultiLexScaled](https://github.com/amaurits/MultiLexScaled), which averages valences across 
 a number of widely-used general-purpose lexica. The paper presenting the method has been published
-at PLOS One. In it, we validate the method against several benchmark 
-datasets across a range of different domains and languages. 
+at [PLOS One](https://journals.plos.org/plosone/), with the title "The advantages of lexicon-based sentiment analysis in an age of machine learning." 
+In it, we validate the method against several benchmark datasets across a range of different domains and languages. 
 
 In addition, we illustrate the value of identifying sentiment in a fine-grained manner by examining 
-coverage of Muslims in the British press, showing that tabloids and broadsheet papers diverged 
+coverage of Muslims in the British press, showing among others that tabloids and broadsheet papers diverged 
 noticeably after 9/11, with tabloids becoming decidedly more negative about Muslims while the 
 tone of broadsheet articles about Muslims remained relatively unchanged.
 

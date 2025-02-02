@@ -14,7 +14,7 @@ title: "PLOS One publication: The advantages of lexicon-based sentiment analysis
 A core feature of _Covering Muslims_ is the analysis of how positive/negative newspaper 
 coverage of Muslim is. Performing this analysis requires a robust, fine-grained sentiment 
 analysis method. Since we were unable to find an existing method that proved acceptable 
-for our purposes, we developed our own, MultiLexScaled, which uses multiple sentiment lexica,
+for our purposes, we developed our own, [MultiLexScaled](https://github.com/amaurits/MultiLexScaled), which uses multiple sentiment lexica,
 calibrated and scaled on a representative corpus of newspaper articles.
 
 The paper introducing the method, long available in preprint form, has now found an official

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>religious minorities, sentiment analysis on Covering Muslims</title>
+    <link>https://covering-muslims.netlify.app/categories/religious-minorities-sentiment-analysis/</link>
+    <description>Recent content in religious minorities, sentiment analysis on Covering Muslims</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://covering-muslims.netlify.app/categories/religious-minorities-sentiment-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assessing the Effect of Media Tone on Attitudes toward Muslims</title>
+      <link>https://covering-muslims.netlify.app/related/polrel/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://covering-muslims.netlify.app/related/polrel/</guid>
+      <description>Media coverage of Muslims has been repeatedly shown to be negative, and attitudes toward Muslims in American society are typically more negative than attitudes toward other social groups. Does the tone of media coverage directly affect public attitudes? This relationship is not well established with respect to Muslims, nor as a proposition about social groups in general. We use an online between-subjects experiment to examine whether exposure to articles of quantifiably different valences about Muslims or Catholics affects reported attitudes toward each of those groups.</description>
+    </item>
+    
+  </channel>
+</rss>

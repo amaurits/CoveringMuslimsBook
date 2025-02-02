@@ -1,38 +1,65 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Project Portfolio To Grow on Covering Muslims</title>
+    <title>Want to delve deeper? on Covering Muslims</title>
     <link>https://covering-muslims.netlify.app/related/</link>
-    <description>Recent content in A Project Portfolio To Grow on Covering Muslims</description>
+    <description>Recent content in Want to delve deeper? on Covering Muslims</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://covering-muslims.netlify.app/related/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://covering-muslims.netlify.app/related/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tachyons for Style</title>
-      <link>https://covering-muslims.netlify.app/related/giraffes/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <title>What did 9/11 mean for U.S. media coverage of Muslims and Islam?</title>
+      <link>https://covering-muslims.netlify.app/related/bjwa/</link>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://covering-muslims.netlify.app/related/giraffes/</guid>
-      <description>Tachyons is a design system that allows you to design gorgeous interfaces in the browser with little effort.      Because Speed     Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides very small (which means fast) CSS modules that you can use in your HTML. So, rather than writing every line of CSS, you apply the style you need as you write your HTML with easy to understand shorthand class names.</description>
+      <guid>https://covering-muslims.netlify.app/related/bjwa/</guid>
+      <description>In this article, we focus on broad patterns and trends in the coverage of Muslims to better understand the effect of 9/11. We show that key changes in the content of coverage were both nearly instantaneous and persistent. In particular, 9/11 dramatically tightened the connection in US newspaper reporting between Muslims, on the one hand, and terrorism and extremism, on the other hand. Moreover, the attacks also brought about an enduring increase in the volume of newspaper articles mentioning Muslims and Islam.</description>
     </item>
     
     <item>
-      <title>Palmer Penguins</title>
-      <link>https://covering-muslims.netlify.app/related/penguins/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      <title>Assessing the Effect of Media Tone on Attitudes toward Muslims</title>
+      <link>https://covering-muslims.netlify.app/related/polrel/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://covering-muslims.netlify.app/related/penguins/</guid>
-      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”     — Chris House, A Complete Guide to CSS Grid Layout 1
- Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
+      <guid>https://covering-muslims.netlify.app/related/polrel/</guid>
+      <description>Media coverage of Muslims has been repeatedly shown to be negative, and attitudes toward Muslims in American society are typically more negative than attitudes toward other social groups. Does the tone of media coverage directly affect public attitudes? This relationship is not well established with respect to Muslims, nor as a proposition about social groups in general. We use an online between-subjects experiment to examine whether exposure to articles of quantifiably different valences about Muslims or Catholics affects reported attitudes toward each of those groups.</description>
     </item>
     
     <item>
-      <title>Bakeoff</title>
-      <link>https://covering-muslims.netlify.app/related/bakeoff/</link>
+      <title>MultiLexScaled</title>
+      <link>https://covering-muslims.netlify.app/related/multilexscaled/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://covering-muslims.netlify.app/related/multilexscaled/</guid>
+      <description>Lexicon-based sentiment analysis, using multiple lexica and scaled against representative text corpora.   Sentiment analysis — the study of the positive or negative valence of texts — has wide-ranging applications across the social sciences. Automated approaches make it possible to code near unlimited quantities of texts with full replicability and high accuracy. Compared to machine-learning approaches, lexicon-based methods provide generalizability while sacrificing little in performance and gaining the ability to identify gradations in sentiment as well as cross-domain comparability.</description>
+    </item>
+    
+    <item>
+      <title>2020 Report on Media Portrayals</title>
+      <link>https://covering-muslims.netlify.app/related/annual2020/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://covering-muslims.netlify.app/related/annual2020/</guid>
+      <description>In this Report, we analyze 2020 coverage of six significant American racial, ethnic, or religious groups: African Americans, Asian Americans, Native Americans, Latinos, Jews, and Muslims. Latinos and African Americans are the largest of these groups, constituting approximately 19% and 13% of the US population, respectively. Asian Americans are the next most numerous, at roughly 6%. Native Americans, Jews, and Muslims each make up approximately 1-2% of the American population.</description>
+    </item>
+    
+    <item>
+      <title>2019 Report on Media Portrayals</title>
+      <link>https://covering-muslims.netlify.app/related/annual2019/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://covering-muslims.netlify.app/related/annual2019/</guid>
+      <description>In this Report, we analyze 2019 coverage of six significant American racial, ethnic, or religious groups: African Americans, Asian Americans, Native Americans, Latinos, Jews, and Muslims. Latinos and African Americans are the largest of these groups, constituting approximately 18% and 13% of the US population, respectively. Asian Americans are the next most numerous, at roughly 6%. Native Americans, Jews, and Muslims make up approximately 1-2% of the American population.
+We address key questions about media coverage of these groups: Are some mentioned more frequently in US newspapers than others?</description>
+    </item>
+    
+    <item>
+      <title>2018 Report on Media Portrayals</title>
+      <link>https://covering-muslims.netlify.app/related/annual2018/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://covering-muslims.netlify.app/related/bakeoff/</guid>
-      <description>Formspree makes it easy to receive submissions from HTML forms on your static website.      Functional Form     This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used.</description>
+      <guid>https://covering-muslims.netlify.app/related/annual2018/</guid>
+      <description>In this Report, we examine 2018 coverage of five significant American racial, ethnic, or religious groups: African Americans, Asian Americans, Latinos, Jews, and Muslims. Latinos and African Americans are the largest of these groups, constituting approximately 16% and 13% of the US population, respectively. Asian Americans are the next most numerous, at roughly 5%. Jews and Muslims make up much smaller proportions of the American population, at approximately 2% and 1%, respectively.</description>
     </item>
     
   </channel>

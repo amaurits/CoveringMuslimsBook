@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About the authors on Covering Muslims</title>
+    <link>https://covering-muslims.netlify.app/information/authors/</link>
+    <description>Recent content in About the authors on Covering Muslims</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://covering-muslims.netlify.app/information/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Erik Bleich</title>
+      <link>https://covering-muslims.netlify.app/information/authors/erik/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://covering-muslims.netlify.app/information/authors/erik/</guid>
+      <description>Erik is Charles A. Dana Professor of political science at Middlebury College, where he directs the Media Portrayals of Minorities Project. He publishes widely on race and ethnicity in liberal democracies and is the co-editor of Migrants, Minorities and the Media: Information, Representations and Participation in the Public Sphere.
+His work has appeared in scholarly journals such as Comparative Political Studies, Social Forces, and World Politics and in public venues like The Atlantic, Al Jazeera English, Asahi Shimbun, The Conversation, Financial Times, The Guardian, Huffington Post, Prospect Magazine, and The Washington Post.</description>
+    </item>
+    
+    <item>
+      <title>A. Maurits van der Veen</title>
+      <link>https://covering-muslims.netlify.app/information/authors/maurits/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://covering-muslims.netlify.app/information/authors/maurits/</guid>
+      <description>Maurits is Associate Professor of Government at William &amp;amp; Mary in Williamsburg, VA. Prior to coming to William &amp;amp; Mary in 2010, he taught at the University of Georgia and the University of Pennsylvania.
+His research investigates the origins and impact of perceptions and beliefs in international relations, with a focus on beliefs about “others”: members of different minorities, (im)migrants, foreigners, etc. As a computational social scientist, he is particularly interested in measuring different aspects of beliefs and attitudes in texts, ranging from legislative debates to newspapers to social media.</description>
+    </item>
+    
+  </channel>
+</rss>

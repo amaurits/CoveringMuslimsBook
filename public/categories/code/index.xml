@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>code on Covering Muslims</title>
+    <link>https://covering-muslims.netlify.app/categories/code/</link>
+    <description>Recent content in code on Covering Muslims</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 10 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://covering-muslims.netlify.app/categories/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MultiLexScaled</title>
+      <link>https://covering-muslims.netlify.app/related/multilexscaled/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://covering-muslims.netlify.app/related/multilexscaled/</guid>
+      <description>Lexicon-based sentiment analysis, using multiple lexica and scaled against representative text corpora.   Sentiment analysis — the study of the positive or negative valence of texts — has wide-ranging applications across the social sciences. Automated approaches make it possible to code near unlimited quantities of texts with full replicability and high accuracy. Compared to machine-learning approaches, lexicon-based methods provide generalizability while sacrificing little in performance and gaining the ability to identify gradations in sentiment as well as cross-domain comparability.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>9/11 on Covering Muslims</title>
+    <link>https://covering-muslims.netlify.app/categories/9/11/</link>
+    <description>Recent content in 9/11 on Covering Muslims</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://covering-muslims.netlify.app/categories/9/11/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>9/11 and media coverage of Muslims</title>
+      <link>https://covering-muslims.netlify.app/news/bjwa/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://covering-muslims.netlify.app/news/bjwa/</guid>
+      <description>More information on the related publications page here.</description>
+    </item>
+    
+    <item>
+      <title>What did 9/11 mean for U.S. media coverage of Muslims and Islam?</title>
+      <link>https://covering-muslims.netlify.app/related/bjwa/</link>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://covering-muslims.netlify.app/related/bjwa/</guid>
+      <description>In this article, we focus on broad patterns and trends in the coverage of Muslims to better understand the effect of 9/11. We show that key changes in the content of coverage were both nearly instantaneous and persistent. In particular, 9/11 dramatically tightened the connection in US newspaper reporting between Muslims, on the one hand, and terrorism and extremism, on the other hand. Moreover, the attacks also brought about an enduring increase in the volume of newspaper articles mentioning Muslims and Islam.</description>
+    </item>
+    
+  </channel>
+</rss>

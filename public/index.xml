@@ -6,160 +6,247 @@
     <description>Recent content on Covering Muslims</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://covering-muslims.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://covering-muslims.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Netlify</title>
-      <link>https://covering-muslims.netlify.app/information/day02/01-netlify/</link>
+      <title>A brief overview</title>
+      <link>https://covering-muslims.netlify.app/information/twitter_thread/</link>
+      <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://covering-muslims.netlify.app/information/twitter_thread/</guid>
+      <description>To mark the U.S. publication of the book, we published a thread on Twitter offering a summary overview of the contents and key findings of the book, along with some figures. We reproduce the thread here (edited for reading as a continuous document).
+Our book, Covering Muslims: American Newspapers in Comparative Perspective, is now out in the United States with Oxford University Press and available at independent booksellers, as well as Amazon.</description>
+    </item>
+    
+    <item>
+      <title>Amaney A. Jamal</title>
+      <link>https://covering-muslims.netlify.app/information/blurbs/jamal/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://covering-muslims.netlify.app/information/blurbs/jamal/</guid>
+      <description>&amp;ldquo;This is an incredibly powerful book that convincingly illustrates that Muslims are systematically negatively portrayed in Western media. Regardless of subject matter, coverage of Muslims in several OECD countries tends to be more negative than when compared to any other group. The media in the United States, Britain, Canada, and Australia are in fact vehicles that unapologetically continue to promote Islamophobia. In an era where the roots of systemic racism are under scrutiny, it is imperative that the media take a critical inward look as well.</description>
+    </item>
+    
+    <item>
+      <title>Erik Bleich</title>
+      <link>https://covering-muslims.netlify.app/information/authors/erik/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://covering-muslims.netlify.app/information/authors/erik/</guid>
+      <description>Erik is Charles A. Dana Professor of political science at Middlebury College, where he directs the Media Portrayals of Minorities Project. He publishes widely on race and ethnicity in liberal democracies and is the co-editor of Migrants, Minorities and the Media: Information, Representations and Participation in the Public Sphere.
+His work has appeared in scholarly journals such as Comparative Political Studies, Social Forces, and World Politics and in public venues like The Atlantic, Al Jazeera English, Asahi Shimbun, The Conversation, Financial Times, The Guardian, Huffington Post, Prospect Magazine, and The Washington Post.</description>
+    </item>
+    
+    <item>
+      <title>The STAIR lab at William &amp; Mary</title>
+      <link>https://covering-muslims.netlify.app/news/lab-series/01-stair/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://covering-muslims.netlify.app/news/lab-series/01-stair/</guid>
+      <description>STAIR Lab (Systematic Text Analysis for International Relations)     STAIR Lab is a computational social science lab conducting collaborative research with undergraduate students at William &amp;amp; Mary. We use natural language processing (NLP) tools to study how politicians and the media (both traditional and social media) think and talk about international issues, with a particular focus on international humanitarian questions.
+Lab website     Click on the link below to go to the lab website</description>
+    </item>
+    
+    <item>
+      <title>A. Maurits van der Veen</title>
+      <link>https://covering-muslims.netlify.app/information/authors/maurits/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://covering-muslims.netlify.app/information/authors/maurits/</guid>
+      <description>Maurits is Associate Professor of Government at William &amp;amp; Mary in Williamsburg, VA. Prior to coming to William &amp;amp; Mary in 2010, he taught at the University of Georgia and the University of Pennsylvania.
+His research investigates the origins and impact of perceptions and beliefs in international relations, with a focus on beliefs about “others”: members of different minorities, (im)migrants, foreigners, etc. As a computational social scientist, he is particularly interested in measuring different aspects of beliefs and attitudes in texts, ranging from legislative debates to newspapers to social media.</description>
+    </item>
+    
+    <item>
+      <title>Stuart Soroka</title>
+      <link>https://covering-muslims.netlify.app/information/blurbs/soroka/</link>
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://covering-muslims.netlify.app/information/day02/01-netlify/</guid>
-      <description>So far, we&amp;rsquo;ve been leveraging GitHub Pages for publishing. This works great, but for blogdown we&amp;rsquo;ll start using Netlify. Let&amp;rsquo;s start RIGHT NOW with a site we&amp;rsquo;ve already built and published.
-Pre-requisites     Pick either your postcards site, or your distill site from day 01. Refresh your memory- which repository was it again?</description>
+      <guid>https://covering-muslims.netlify.app/information/blurbs/soroka/</guid>
+      <description>&amp;ldquo;Bleich and van der Veen offer an impressively thorough account of negativity in media coverage of Muslims. They find that Muslims receive more negative coverage than a range of other religious and ethnic groups, as farback as 1996, in the United States and across Anglo-American democracies as well. This work raises serious concerns not just for scholars of political communication and ethnic diversity, but for journalists, editors, and news consumers as well.</description>
     </item>
     
     <item>
-      <title>A first post</title>
-      <link>https://covering-muslims.netlify.app/news/spoonful-series/01-spoonful/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <title>MPoMP lab at Middlebury College</title>
+      <link>https://covering-muslims.netlify.app/news/lab-series/02-mpomp/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://covering-muslims.netlify.app/news/spoonful-series/01-spoonful/</guid>
-      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/news/spoonful-series/01-spoonful.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: news  My layout is: single-series   does this work?     or this?      Let&amp;rsquo;s start.
-beginning     middle     end     </description>
+      <guid>https://covering-muslims.netlify.app/news/lab-series/02-mpomp/</guid>
+      <description>MPoMP (Media Portrayal of Minorities Project)     The Media Portrayals of Minorities Project was launched in 2012 at Middlebury College. We use digital sources to better understand depictions of minorities in the media. Our goal is to track and explain how and why media representations of groups shift over time, vary across place, or compare to one another. We use a mix of computer-assisted and human coding techniques that allow us to analyze large quantities of media data.</description>
     </item>
     
     <item>
-      <title>A GitHub profile</title>
-      <link>https://covering-muslims.netlify.app/information/day01/01-github/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <title>When and where can the book be purchased?</title>
+      <link>https://covering-muslims.netlify.app/information/availability/</link>
+      <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://covering-muslims.netlify.app/information/day01/01-github/</guid>
-      <description>Profile     https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile
-Pin projects to profile     https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile
-Profile README     This is new! Let&amp;rsquo;s do it:
-https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme</description>
+      <guid>https://covering-muslims.netlify.app/information/availability/</guid>
+      <description>Covering Muslims: American Newspapers in Comparative Perspective, has been available as an electronic book since November 2021.
+Paper shortages and supply chain issues aggravated by the COVID-19 pandemic have pushed the print publication dates back a bit. In the United States, the book has been available since December 14, 2021, in both hardcover and paperback.
+In most of Europe, it has been available since 24 March 2022, for instance at Amazon UK.</description>
     </item>
     
     <item>
-      <title>Prework</title>
-      <link>https://covering-muslims.netlify.app/information/prework/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Hajo G. Boomgaarden</title>
+      <link>https://covering-muslims.netlify.app/information/blurbs/boomgaarden/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://covering-muslims.netlify.app/information/prework/</guid>
-      <description>Welcome to the Introducing Yourself Online workshop! We look forward to meeting you. Before attending the workshop, please complete the following prework.
-Set up RStudio Cloud     Sign up for a free RStudio Cloud account at https://rstudio.cloud/ before the workshop. I recommend logging in with an existing Google or GitHub account, if you have one (rather than creating a new account with another password you have to remember).</description>
+      <guid>https://covering-muslims.netlify.app/information/blurbs/boomgaarden/</guid>
+      <description>&amp;ldquo;This book is a must-read for everyone interested in media and minorities. It provides a uniquely comprehensive analysis of media coverage of Muslims unseen in previous contributions on this topic. The empirical contributions presented in this book provide a benchmark for how contemporary scholarship should approach minority coverage in mass media. Conclusions are of great practical relevance for journalism practice.&amp;rdquo;
+ Hajo G. Boomgaarden is Professor for Empirical Social Science Methods with a Focus on Text Analysis at the Department of Communication and currently Dean of the Faculty of Social Sciences at the University of Vienna.</description>
     </item>
     
     <item>
-      <title>A postcard</title>
-      <link>https://covering-muslims.netlify.app/information/day01/02-postcards/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      <title>PLOS One publication: The advantages of lexicon-based sentiment analysis in an age of machine learning.</title>
+      <link>https://covering-muslims.netlify.app/news/plos-one/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://covering-muslims.netlify.app/information/day01/02-postcards/</guid>
-      <description>Pre-requisites     First, make sure you have the latest version of the postcards package installed from CRAN:
-install.packages(&amp;quot;postcards&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
- Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;postcards&amp;quot;) [1] ‘0.2.0’  Create GitHub repo     Online.</description>
+      <guid>https://covering-muslims.netlify.app/news/plos-one/</guid>
+      <description>A core feature of Covering Muslims is the analysis of how positive/negative newspaper coverage of Muslim is. Performing this analysis requires a robust, fine-grained sentiment analysis method. Since we were unable to find an existing method that proved acceptable for our purposes, we developed our own, MultiLexScaled, which uses multiple sentiment lexica, calibrated and scaled on a representative corpus of newspaper articles.
+The paper introducing the method, long available in preprint form, has now found an official published home at the general science journal PLOS One.</description>
     </item>
     
     <item>
-      <title>A second post</title>
-      <link>https://covering-muslims.netlify.app/news/spoonful-series/02-spoonful/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Book Award -- ISA International Communication Section</title>
+      <link>https://covering-muslims.netlify.app/news/award/</link>
+      <pubDate>Sun, 03 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://covering-muslims.netlify.app/news/spoonful-series/02-spoonful/</guid>
-      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/news/spoonful-series/02-spoonful/index.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: news  My layout is: single-series  Images in this page bundle: /news/spoonful-series/02-spoonful/sidebar-inverse.jpg   part 2!     does this work?      now for some very cool things     more     get ready!</description>
+      <guid>https://covering-muslims.netlify.app/news/award/</guid>
+      <description>The International Communication Section, of the International Studies Association awarded Covering Muslims its 2024 Book Award.
+   </description>
     </item>
     
     <item>
-      <title>Using blogdown</title>
-      <link>https://covering-muslims.netlify.app/information/day02/02-blogdown/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Critical Dialogue: Covering Muslims &amp; The Struggle for Inclusion</title>
+      <link>https://covering-muslims.netlify.app/news/perspectives/</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://covering-muslims.netlify.app/information/day02/02-blogdown/</guid>
-      <description>Pre-requisites     First, make sure you have the latest version of the blogdown package installed from CRAN:
-install.packages(&amp;quot;blogdoown&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
- Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;blogdown&amp;quot;) [1] ‘1.0’  Create GitHub repo     Online.</description>
+      <guid>https://covering-muslims.netlify.app/news/perspectives/</guid>
+      <description>Perspectives on Politics, a journal of the American Political Science Association, published a back and forth review-and-response Critical Dialogue between us and Elisabeth Ivarsflaten and Paul M. Sniderman, authors of the superb study The Struggle for Inclusion: Muslim Minorities and the Democratic Ethos (Chicago, 2022).
+As we wrote in our response to their review, &amp;ldquo;Juxtaposing the findings of our two books leads to a host of compelling research questions. We look forward to further research that enriches our understanding of the interactions between media coverage and public attitudes toward Muslims and other marginalized groups.</description>
     </item>
     
     <item>
-      <title>A third post</title>
-      <link>https://covering-muslims.netlify.app/news/spoonful-series/03-spoonful/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      <title>A post on ‘Tone-Checking’ articles about Muslims&#39;</title>
+      <link>https://covering-muslims.netlify.app/news/mpc/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://covering-muslims.netlify.app/news/spoonful-series/03-spoonful/</guid>
-      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/news/spoonful-series/03-spoonful/index.markdown  Here is my R Markdown source file: news/spoonful-series/03-spoonful/index.Rmarkdown You&#39;ll want to edit this file, then re-knit to see the changes take effect in your site preview.
- To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: news  My layout is: single-series  Images in this page bundle: /news/spoonful-series/03-spoonful/featured-photo.</description>
+      <guid>https://covering-muslims.netlify.app/news/mpc/</guid>
+      <description>The Migration Policy Centre at the European University Institute maintains a valuable blog featuring articles about issues relevant to migrants and migration. We were invited to contributed a post, which appeared on May 30th. In it, we discuss the overall negativity of the media&amp;rsquo;s coverage of Muslims, and argue for the importance of &amp;ldquo;tone-checking&amp;rdquo; such coverage: consciously reflecting on the text of articles in order to develop an awareness of biases and errors.</description>
     </item>
     
     <item>
-      <title>A distill site</title>
-      <link>https://covering-muslims.netlify.app/information/day01/03-distill/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Reporting in the &#39;Middle East Monitor&#39;</title>
+      <link>https://covering-muslims.netlify.app/news/memonitor/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://covering-muslims.netlify.app/information/day01/03-distill/</guid>
-      <description>Pre-requisites     First, make sure you have the latest version of the distill package installed from CRAN:
-install.packages(&amp;quot;distill&amp;quot;)  Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
- Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  &amp;lt;!-- --&amp;gt; packageVersion(&amp;quot;distill&amp;quot;) [1] ‘1.2’  Create GitHub repo     Online.</description>
+      <guid>https://covering-muslims.netlify.app/news/memonitor/</guid>
+      <description> Middle East Monitor reported on our article in The Conversation. To read their account, click on the image below.    </description>
     </item>
     
     <item>
-      <title>Warm woolen mittens</title>
-      <link>https://covering-muslims.netlify.app/information/day02/03-blogdown/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      <title>A piece in The Conversation: &#39;Yes, Muslims are portrayed negatively in American media&#39;</title>
+      <link>https://covering-muslims.netlify.app/news/conversation/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://covering-muslims.netlify.app/information/day02/03-blogdown/</guid>
-      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/information/day02/03-blogdown/index.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: information  My layout is: single-series   part 2!     does this work?      now for some very cool things     more     get ready!</description>
+      <guid>https://covering-muslims.netlify.app/news/conversation/</guid>
+      <description>The Conversation is a website featuring news articles about academic research findings.
+We worked with the excellent Kalpana Jin (@kalpanajain) as editor to produce a short piece for The Conversation focusing on two important take-away messages from the book: 1) Coverage of Muslims is much more negative than that of other religious groups, and 2) This pattern holds across English-speaking countries in the Global North (i.e. it is not U.</description>
     </item>
     
     <item>
-      <title>Set up your social</title>
-      <link>https://covering-muslims.netlify.app/news/social/</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Book discussion at Sciences Po Lyon</title>
+      <link>https://covering-muslims.netlify.app/news/lyon/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://covering-muslims.netlify.app/news/social/</guid>
-      <description>There are five places where you can choose to show social icons. Here is the tl;dr:
- site header (set in config.toml), site footer (set in config.toml),  homepage (set in content/_index.md),  about page in the sidebar (set in content/about/sidebar/index.md), and  contact page (set in content/form/contact.md).  Read on to learn how to set up your social icons, and how to show/hide them.
-Configure social     Wherever you end up wanting to show your social icons, you&amp;rsquo;ll need to start by setting up the links in your site config.</description>
+      <guid>https://covering-muslims.netlify.app/news/lyon/</guid>
+      <description>   On April 14, Erik provided an overview of the key findings in Covering Muslims at a public presentation organized by Sciences Po Lyon and cosponsored by Fulbright France and the US Consulate in Lyon.
+Click on the image below to watch the recording. Erik&amp;rsquo;s presentation begins at 11:30.
+   </description>
     </item>
     
     <item>
-      <title>Style your site colors</title>
-      <link>https://covering-muslims.netlify.app/news/color-themes/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      <title>Book discussion at Harvard</title>
+      <link>https://covering-muslims.netlify.app/news/harvard/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://covering-muslims.netlify.app/news/color-themes/</guid>
-      <description>You can totally customize your site&amp;rsquo;s theme colors within minutes of creating a new site. Read on to find out how, and decide which of the three options meets your needs.
-Use a color theme     Hugo Apéro includes 8 built-in color themes that work &amp;ldquo;out of the box.&amp;rdquo; This means you can use a color theme to quickly customize the look of your site without needing to write any CSS.</description>
+      <guid>https://covering-muslims.netlify.app/news/harvard/</guid>
+      <description>The Seminar on Social Exclusion and Inclusion at Harvard&amp;rsquo;s Minda de Gunzburg Center for European Studies and the Weatherhead Center for International Affairs&#39; Research Cluster on Comparative Inequality and Inclusion hosts a panel discussion on New Research on Muslims in Europe on April 6th.
+   The discussion will feature 3 recent books. In addition to our Covering Muslims, Elisabeth Becker-Topkara will discuss her book, Mosques in the Metropolis, and Julian Talpin and Guillaume Roux will present their L’épreuve de la discrimination.</description>
     </item>
     
     <item>
-      <title>Style your site typography</title>
-      <link>https://covering-muslims.netlify.app/news/fonts/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      <title>9/11 and media coverage of Muslims</title>
+      <link>https://covering-muslims.netlify.app/news/bjwa/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://covering-muslims.netlify.app/news/fonts/</guid>
-      <description>As with color themes, you can completely customize your site&amp;rsquo;s fonts within minutes of creating a new site. How you do it depends on how much control and customization you need.
-Embedded fonts     Hugo Apéro includes 6 embedded fonts that work &amp;ldquo;out of the box.&amp;rdquo; We selected 3 serif and 3 sans-serif options that we thought looked good with this theme, in our humble opinions. All embedded fonts include real italics so you may emphasize to your heart&amp;rsquo;s content ❤️!</description>
+      <guid>https://covering-muslims.netlify.app/news/bjwa/</guid>
+      <description>More information on the related publications page here.</description>
     </item>
     
     <item>
-      <title>An evergreen post</title>
-      <link>https://covering-muslims.netlify.app/news/evergreen/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <title>What did 9/11 mean for U.S. media coverage of Muslims and Islam?</title>
+      <link>https://covering-muslims.netlify.app/related/bjwa/</link>
+      <pubDate>Sun, 30 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://covering-muslims.netlify.app/news/evergreen/</guid>
-      <description>Rendering mathematical equations     Examples from the mathjax demo. But they work with katex as well.
-Rmarkdown     In .Rmarkdown documents, you can use either
-$a \ne 0$ to get inline math: \(a \ne 0\). There is no conflict with using dollar symbols regularly, because knitr automatically escapes freestanding dollar symbols.
-And you can use
-$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$ to get a math paragraph:</description>
+      <guid>https://covering-muslims.netlify.app/related/bjwa/</guid>
+      <description>In this article, we focus on broad patterns and trends in the coverage of Muslims to better understand the effect of 9/11. We show that key changes in the content of coverage were both nearly instantaneous and persistent. In particular, 9/11 dramatically tightened the connection in US newspaper reporting between Muslims, on the one hand, and terrorism and extremism, on the other hand. Moreover, the attacks also brought about an enduring increase in the volume of newspaper articles mentioning Muslims and Islam.</description>
+    </item>
+    
+    <item>
+      <title>Back to School with Maz Jobrani</title>
+      <link>https://covering-muslims.netlify.app/news/jobrani/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://covering-muslims.netlify.app/news/jobrani/</guid>
+      <description>In his Axis of Evil Comedy tour, Maz Jobrani tells a joke that nicely encapsulates a central problem with American media coverage of Muslims. We use it as an epigraph for our first chapter. You can watch it here (it starts around 1:25).
+We were thrilled to talk about the book with Jobrani and his cohost Tehran for an episode of the podcast &amp;ldquo;Back to School with Maz Jobrani&amp;rdquo;. We discussed key findings in the book, as well as about broader issues related to the book findings, plus whether or not the Netherlands is part of Scandinavia 😃.</description>
+    </item>
+    
+    <item>
+      <title>The page 99 test</title>
+      <link>https://covering-muslims.netlify.app/news/page99/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://covering-muslims.netlify.app/news/page99/</guid>
+      <description>Marshal Zeringue (@zeringuemarshal) maintains a blog in which he asks authors of books to take Ford Madox Ford&amp;rsquo;s &amp;ldquo;page 99 test&amp;rdquo; and write about the results. Covering Muslims was featured on December 22.
+Here is page 99 from Covering Muslims:
+Surprisingly, it is a page wholely dedicated to a figure displaying trends over time in the number of articles published mentioning Muslims in four different countries. To read our page 99 test story, click on the image below.</description>
+    </item>
+    
+    <item>
+      <title>The book is out in the wild!</title>
+      <link>https://covering-muslims.netlify.app/news/uspublication/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://covering-muslims.netlify.app/news/uspublication/</guid>
+      <description>Thanks to supply chain issues and paper shortages, it took a little longer than expected, but we can now confirm that the book exists and is available in tangible form!</description>
+    </item>
+    
+    <item>
+      <title>Assessing the Effect of Media Tone on Attitudes toward Muslims</title>
+      <link>https://covering-muslims.netlify.app/related/polrel/</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://covering-muslims.netlify.app/related/polrel/</guid>
+      <description>Media coverage of Muslims has been repeatedly shown to be negative, and attitudes toward Muslims in American society are typically more negative than attitudes toward other social groups. Does the tone of media coverage directly affect public attitudes? This relationship is not well established with respect to Muslims, nor as a proposition about social groups in general. We use an online between-subjects experiment to examine whether exposure to articles of quantifiably different valences about Muslims or Catholics affects reported attitudes toward each of those groups.</description>
+    </item>
+    
+    <item>
+      <title>MultiLexScaled</title>
+      <link>https://covering-muslims.netlify.app/related/multilexscaled/</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://covering-muslims.netlify.app/related/multilexscaled/</guid>
+      <description>Lexicon-based sentiment analysis, using multiple lexica and scaled against representative text corpora.   Sentiment analysis — the study of the positive or negative valence of texts — has wide-ranging applications across the social sciences. Automated approaches make it possible to code near unlimited quantities of texts with full replicability and high accuracy. Compared to machine-learning approaches, lexicon-based methods provide generalizability while sacrificing little in performance and gaining the ability to identify gradations in sentiment as well as cross-domain comparability.</description>
+    </item>
+    
+    <item>
+      <title>2020 Report on Media Portrayals</title>
+      <link>https://covering-muslims.netlify.app/related/annual2020/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://covering-muslims.netlify.app/related/annual2020/</guid>
+      <description>In this Report, we analyze 2020 coverage of six significant American racial, ethnic, or religious groups: African Americans, Asian Americans, Native Americans, Latinos, Jews, and Muslims. Latinos and African Americans are the largest of these groups, constituting approximately 19% and 13% of the US population, respectively. Asian Americans are the next most numerous, at roughly 6%. Native Americans, Jews, and Muslims each make up approximately 1-2% of the American population.</description>
     </item>
     
     <item>
@@ -172,20 +259,6 @@ $x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$ to get a math paragraph:</description>
     </item>
     
     <item>
-      <title>Using panelsets</title>
-      <link>https://covering-muslims.netlify.app/news/seedling/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://covering-muslims.netlify.app/news/seedling/</guid>
-      <description>Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset
-For example, this panelset:
-Hello! 👋 hello
- Goodbye 💨 goodbye
-  Was created by combining this theme&amp;rsquo;s panelset and panel shortcodes:
-{{&amp;lt; panelset class=&amp;#34;greetings&amp;#34; &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Hello! :wave:&amp;#34; &amp;gt;}} hello {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Goodbye :dash:&amp;#34; &amp;gt;}} goodbye {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; /panelset &amp;gt;}} You could also revert to HTML as well. For example, this panelset:</description>
-    </item>
-    
-    <item>
       <title>A seedling</title>
       <link>https://covering-muslims.netlify.app/talk/second-seedling/</link>
       <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
@@ -195,12 +268,13 @@ Hello! 👋 hello
     </item>
     
     <item>
-      <title>An Rmarkdown post</title>
-      <link>https://covering-muslims.netlify.app/news/rmarkdown/</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <title>2019 Report on Media Portrayals</title>
+      <link>https://covering-muslims.netlify.app/related/annual2019/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://covering-muslims.netlify.app/news/rmarkdown/</guid>
-      <description> Air quality     with(airquality, boxplot(Temp ~ Month)) with(airquality, plot(Ozone ~ Temp)) mlev &amp;lt;- levels(with(airquality, as.factor(Month))) with(airquality, plot(Ozone ~ Temp, pch = as.numeric(mlev), col = mlev)) </description>
+      <guid>https://covering-muslims.netlify.app/related/annual2019/</guid>
+      <description>In this Report, we analyze 2019 coverage of six significant American racial, ethnic, or religious groups: African Americans, Asian Americans, Native Americans, Latinos, Jews, and Muslims. Latinos and African Americans are the largest of these groups, constituting approximately 18% and 13% of the US population, respectively. Asian Americans are the next most numerous, at roughly 6%. Native Americans, Jews, and Muslims make up approximately 1-2% of the American population.
+We address key questions about media coverage of these groups: Are some mentioned more frequently in US newspapers than others?</description>
     </item>
     
     <item>
@@ -213,54 +287,16 @@ Hello! 👋 hello
     </item>
     
     <item>
-      <title>Tachyons for Style</title>
-      <link>https://covering-muslims.netlify.app/related/giraffes/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://covering-muslims.netlify.app/related/giraffes/</guid>
-      <description>Tachyons is a design system that allows you to design gorgeous interfaces in the browser with little effort.      Because Speed     Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides very small (which means fast) CSS modules that you can use in your HTML. So, rather than writing every line of CSS, you apply the style you need as you write your HTML with easy to understand shorthand class names.</description>
-    </item>
-    
-    <item>
-      <title>CSS Grid Scaffold</title>
-      <link>https://covering-muslims.netlify.app/news/css-grid-scaffold/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://covering-muslims.netlify.app/news/css-grid-scaffold/</guid>
-      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”     — Chris House, A Complete Guide to CSS Grid Layout 1
- Overview     Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
-    </item>
-    
-    <item>
-      <title>Palmer Penguins</title>
-      <link>https://covering-muslims.netlify.app/related/penguins/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://covering-muslims.netlify.app/related/penguins/</guid>
-      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”     — Chris House, A Complete Guide to CSS Grid Layout 1
- Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
-    </item>
-    
-    <item>
-      <title>Bakeoff</title>
-      <link>https://covering-muslims.netlify.app/related/bakeoff/</link>
+      <title>2018 Report on Media Portrayals</title>
+      <link>https://covering-muslims.netlify.app/related/annual2018/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://covering-muslims.netlify.app/related/bakeoff/</guid>
-      <description>Formspree makes it easy to receive submissions from HTML forms on your static website.      Functional Form     This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used.</description>
+      <guid>https://covering-muslims.netlify.app/related/annual2018/</guid>
+      <description>In this Report, we examine 2018 coverage of five significant American racial, ethnic, or religious groups: African Americans, Asian Americans, Latinos, Jews, and Muslims. Latinos and African Americans are the largest of these groups, constituting approximately 16% and 13% of the US population, respectively. Asian Americans are the next most numerous, at roughly 5%. Jews and Muslims make up much smaller proportions of the American population, at approximately 2% and 1%, respectively.</description>
     </item>
     
     <item>
-      <title>Built-in Contact Form</title>
-      <link>https://covering-muslims.netlify.app/news/built-in-contact-form/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://covering-muslims.netlify.app/news/built-in-contact-form/</guid>
-      <description>Formspree makes it easy to receive submissions from HTML forms on your static website.      Functional Form     This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
+      <title>Contact Us</title>
       <link>https://covering-muslims.netlify.app/contact/</link>
       <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
       
@@ -292,10 +328,8 @@ Formspree requires a (free) account and new form to be set up. The link is made 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://covering-muslims.netlify.app/contributors/</guid>
-      <description>Thank you to all the folks who have contributed both technical and creative skills to this project:
-   Desirée De Leon 🦒 (designed 5 of the custom color themes, made illustrations for the workshop, and provided general aesthetic feedback along the way)
-   Garrick Aden-Buie 🧙‍♀️ (debugged headroom.js and lent his panelset.js code to the theme)
-   Allison Horst 🐕 (awesome illustrations of campfires, seedlings, and evergreens, as well as my R Markdown hedgehog mascot 🦔)</description>
+      <description>This website is built using the hugo-apero theme developed by Alison Hill, which in turn was built upon the blogophonic Hugo theme developed by Eric Anderson and the team at Formspree.
+Website design and contents by Maurits van der Veen and Erik Bleich.</description>
     </item>
     
     <item>
@@ -304,7 +338,7 @@ Formspree requires a (free) account and new form to be set up. The link is made 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://covering-muslims.netlify.app/license/</guid>
-      <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.
+      <description>Any images or excerpts from the book are copyright Oxford University Press. New material created for this site is released under a Creative Commons Attribution-ShareAlike 4.0 International License.
   </description>
     </item>
     

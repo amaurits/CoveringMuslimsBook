@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>William &amp; Mary on Covering Muslims</title>
+    <link>https://covering-muslims.netlify.app/categories/william-mary/</link>
+    <description>Recent content in William &amp; Mary on Covering Muslims</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://covering-muslims.netlify.app/categories/william-mary/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The STAIR lab at William &amp; Mary</title>
+      <link>https://covering-muslims.netlify.app/news/lab-series/01-stair/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://covering-muslims.netlify.app/news/lab-series/01-stair/</guid>
+      <description>STAIR Lab (Systematic Text Analysis for International Relations)     STAIR Lab is a computational social science lab conducting collaborative research with undergraduate students at William &amp;amp; Mary. We use natural language processing (NLP) tools to study how politicians and the media (both traditional and social media) think and talk about international issues, with a particular focus on international humanitarian questions.
+Lab website     Click on the link below to go to the lab website</description>
+    </item>
+    
+  </channel>
+</rss>

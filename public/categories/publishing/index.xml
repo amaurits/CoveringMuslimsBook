@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>publishing on Covering Muslims</title>
+    <link>https://covering-muslims.netlify.app/categories/publishing/</link>
+    <description>Recent content in publishing on Covering Muslims</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://covering-muslims.netlify.app/categories/publishing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The book is out in the wild!</title>
+      <link>https://covering-muslims.netlify.app/news/uspublication/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://covering-muslims.netlify.app/news/uspublication/</guid>
+      <description>Thanks to supply chain issues and paper shortages, it took a little longer than expected, but we can now confirm that the book exists and is available in tangible form!</description>
+    </item>
+    
+  </channel>
+</rss>

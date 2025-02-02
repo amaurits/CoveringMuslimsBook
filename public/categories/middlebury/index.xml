@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Middlebury on Covering Muslims</title>
+    <link>https://covering-muslims.netlify.app/categories/middlebury/</link>
+    <description>Recent content in Middlebury on Covering Muslims</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://covering-muslims.netlify.app/categories/middlebury/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MPoMP lab at Middlebury College</title>
+      <link>https://covering-muslims.netlify.app/news/lab-series/02-mpomp/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://covering-muslims.netlify.app/news/lab-series/02-mpomp/</guid>
+      <description>MPoMP (Media Portrayal of Minorities Project)     The Media Portrayals of Minorities Project was launched in 2012 at Middlebury College. We use digital sources to better understand depictions of minorities in the media. Our goal is to track and explain how and why media representations of groups shift over time, vary across place, or compare to one another. We use a mix of computer-assisted and human coding techniques that allow us to analyze large quantities of media data.</description>
+    </item>
+    
+  </channel>
+</rss>

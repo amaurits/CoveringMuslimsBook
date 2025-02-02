@@ -40,7 +40,7 @@ a number of widely-used general-purpose lexica. The paper presenting the method 
 at [PLOS One](https://journals.plos.org/plosone/), with the title "The advantages of lexicon-based sentiment analysis in an age of machine learning." 
 In it, we validate the method against several benchmark datasets across a range of different domains and languages. 
 
-In addition, we illustrate the value of identifying sentiment in a fine-grained manner by examining 
+We further illustrate the value of identifying sentiment in a fine-grained manner by examining 
 coverage of Muslims in the British press, showing among others that tabloids and broadsheet papers diverged 
 noticeably after 9/11, with tabloids becoming decidedly more negative about Muslims while the 
 tone of broadsheet articles about Muslims remained relatively unchanged.

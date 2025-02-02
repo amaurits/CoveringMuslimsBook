@@ -45,3 +45,4 @@ coverage of Muslims in the British press, showing among others that tabloids and
 noticeably after 9/11, with tabloids becoming decidedly more negative about Muslims while the 
 tone of broadsheet articles about Muslims remained relatively unchanged.
 
+![key figure](PLOS1_figure.png)

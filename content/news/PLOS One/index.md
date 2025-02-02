@@ -1,7 +1,7 @@
 ---
 author: Maurits van der Veen
 categories:
-- awards
+- publications
 date: "2024-11-01"
 draft: false
 excerpt: "Sentiment analysis method published in PLOS One." 

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>publications on Covering Muslims</title>
+    <link>https://covering-muslims.netlify.app/categories/publications/</link>
+    <description>Recent content in publications on Covering Muslims</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://covering-muslims.netlify.app/categories/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PLOS One publication: The advantages of lexicon-based sentiment analysis in an age of machine learning.</title>
+      <link>https://covering-muslims.netlify.app/news/plos-one/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://covering-muslims.netlify.app/news/plos-one/</guid>
+      <description>A core feature of Covering Muslims is the analysis of how positive/negative newspaper coverage of Muslim is. Performing this analysis requires a robust, fine-grained sentiment analysis method. Since we were unable to find an existing method that proved acceptable for our purposes, we developed our own, MultiLexScaled, which uses multiple sentiment lexica, calibrated and scaled on a representative corpus of newspaper articles.
+The paper introducing the method, long available in preprint form, has now found an official published home at the general science journal PLOS One.</description>
+    </item>
+    
+  </channel>
+</rss>

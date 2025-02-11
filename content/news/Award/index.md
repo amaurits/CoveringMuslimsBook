@@ -20,5 +20,5 @@ awarded _Covering Muslims_ its 2024 [Book Award](https://www.isanet.org/Programs
 <br>
 
 <center>
-<a href=https://www.isanet.org/Programs/Awards/ICOMM-Book><img src=Award_featured.jpg></a>
+<a href=https://www.isanet.org/Programs/Awards/ICOMM-Book><img src=Award_Erik.jpg></a>
 </center>
